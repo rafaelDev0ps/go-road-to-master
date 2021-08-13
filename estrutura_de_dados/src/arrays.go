@@ -12,6 +12,7 @@ func main() {
 	var vetor3 = [...]int{10, 9, 8, 4, 5}
 
 	fmt.Println("vetor2 =>", vetor2[0])
+	fmt.Println("teste github workspace")
 
 	for i, el := range vetor3 {
 		fmt.Print("indice =>", i)
